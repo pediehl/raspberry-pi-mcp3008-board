@@ -68,7 +68,7 @@ CE0            | Raspberry Pi CE0   | GP 8
 
 ## Schaltplan
 
-![Aufbau](images/pidi_sensor_verbinden_mit Raspberrypi.png)
+![](images/pidi_sensor_verbinden_mit Raspberrypi.png)
 
 
 ## Beispiele starten
