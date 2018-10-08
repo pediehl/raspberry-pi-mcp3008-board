@@ -57,6 +57,10 @@ git clone https://github.com/pediehl/raspberry-pi-mcp3008-board.git
 
 ## Aufbau
 
+![Aufbau](images/pidi_sensor_verbinden_mit Raspberrypi.png)
+
+
+
 MCP3008-Sensor | Raspberry Pi       | Raspberry Pi GPIO-PINS
 ---------------|--------------------|-----------------------
 &plus;3V       | Raspberry Pi 3.3 V | 3.3V
@@ -66,7 +70,6 @@ MISO           | Raspberry Pi MISO  | GP 9
 MOSI           | Raspberry Pi MOSI  | GP 10
 CE0            | Raspberry Pi CE0   | GP 8
 
-![](images/pidi_sensor_verbinden_mit Raspberrypi.png)
 
 
 ## Beispiele starten
