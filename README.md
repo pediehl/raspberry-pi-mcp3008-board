@@ -61,7 +61,7 @@ git clone https://github.com/pediehl/raspberry-pi-mcp3008-board.git
 
 MCP3008-Sensor | Raspberry Pi       | Raspberry Pi GPIO-PINS
 ---------------|--------------------|-----------------------
-3V             | Raspberry Pi 3.3 V | 3.3V
+\+3V             | Raspberry Pi 3.3 V | 3.3V
 GND            | Raspberry Pi GND   | GND
 SCLK           | Raspberry Pi SCLK  | GP 11
 MISO           | Raspberry Pi MISO  | GP 9
