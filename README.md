@@ -56,6 +56,7 @@ git clone https://github.com/pediehl/raspberry-pi-mcp3008-board.git
 
 
 ## Aufbau
+
 ![](images/pidi_sensor_verbinden_mit Raspberrypi.png)
 
 
