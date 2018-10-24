@@ -76,7 +76,7 @@ Auf deinem Raspberry solltest du jetzt unter _**Documents**_ einen weiteren Ordn
 + ldr.py
 + poti_ohm.py
 + poti_prozent.py
-+ Wassersensor.py
++ wassersensor.py
 
 
 ## Wie starte ich das Python-Skript auf meinem Raspbery Pi?
