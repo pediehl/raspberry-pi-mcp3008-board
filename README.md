@@ -57,7 +57,7 @@ git clone https://github.com/pediehl/raspberry-pi-mcp3008-board.git
 
 ## Aufbau
 
-![](images/pidi_sensor_verbinden_mit_Raspberrypi.png)
+![](images/pidi_sensor_verbinden_mit_Raspberrypi.jpg)
 
 MCP3008-Sensor | Raspberry Pi       | Raspberry Pi GPIO-PINS
 ---------------|--------------------|-----------------------
@@ -101,7 +101,7 @@ Starte ein Beispiel mit: `python3 ldr.py`
 
 Der Widerstand wird benötigen um einen Spanungsteiler aufzubauen. Besser: Über den Widerstand wird dafür gesorgt, dass nicht zu viel Spannung auf dem MCP3008 ankommt.
 
-![](images/pidi_sensor_steckplatine_helligkeitssensor_Steckplatine.png)
+![](images/pidi_sensor_steckplatine_helligkeitssensor_Steckplatine.jpg)
 
 #### Berechnung in Ohm
 
@@ -121,7 +121,7 @@ while True :
 * Kabel
 * Potentiometer
 
-![](images/pidi_sensor_steckplatine_potentiometer_Steckplatine.png)
+![](images/pidi_sensor_steckplatine_potentiometer_Steckplatine.jpg)
 
 #### Berechnung in Prozent
 ```python
@@ -153,7 +153,7 @@ while True :
 * Kabel
 * Wassersensor
 
-![](images/pidi_sensor_steckplatine_wassersensor_Steckplatine.png)
+![](images/pidi_sensor_steckplatine_wassersensor_Steckplatine.jpg)
 
 #### Berechnung Spannung in Volt
 ```python
